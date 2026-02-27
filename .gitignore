@@ -39,3 +39,7 @@
 
 # debug information files
 *.dwo
+
+#Other
+/.venv
+/trueforce/__pycache__
