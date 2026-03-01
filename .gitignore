@@ -43,3 +43,4 @@
 #Other
 /.venv
 /trueforce/__pycache__
+/build
